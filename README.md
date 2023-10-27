@@ -3,5 +3,11 @@ Official Implementation of DMT: Dual Mean-Teacher in PyTorch.
 Accepted by NeurIPS2023.
 
 We will release our code soon!
-![image](https://github.com/gyx-gloria/DMT-main/blob/main/framework.pdf)
-![image](https://github.com/gyx-gloria/DMT-main/blob/main/current.pdf)
+<div align="center">
+  <img width="100%" alt="OneAVM Illustration" src="framework.pdf">
+</div>
+
+<div align="center">
+  <img width="100%" alt="OneAVM Illustration" src="current.pdf">
+</div>
+
